@@ -1,0 +1,86 @@
+[
+  {
+    "adaptability": 5,
+    "breed": "golden-retriever",
+    "image": "https://source.unsplash.com/KFJuCzJiQYU",
+    "maintenance": 3,
+    "type": "dog"
+  },
+  {
+    "adaptability": 4,
+    "breed": "german-shepherd",
+    "image": "https://source.unsplash.com/Ce2FZDbx2T0",
+    "maintenance": 2,
+    "type": "dog"
+  },
+  {
+    "adaptability": 3,
+    "breed": "british-short-hair",
+    "image": "https://source.unsplash.com/xMjPMiIXMjg",
+    "maintenance": 2,
+    "type": "cat"
+  },
+  {
+    "adaptability": 2,
+    "breed": "persian",
+    "image": "https://source.unsplash.com/sUJQVvFhVSY",
+    "maintenance": 5,
+    "type": "cat"
+  },
+  {
+    "adaptability": 4,
+    "breed": "bulldog",
+    "image": "https://source.unsplash.com/jVOkrxUSzAQ",
+    "maintenance": 2,
+    "type": "dog"
+  },
+  {
+    "adaptability": 5,
+    "maintenance": 2,
+    "image": "https://source.unsplash.com/8n72OQoS3pI",
+    "species": "parrot",
+    "type": "bird"
+  },
+  {
+    "adaptability": 2,
+    "image": "https://source.unsplash.com/YVsZndmrcSM",
+    "maintenance": 4,
+    "species": "finch",
+    "type": "bird"
+  },
+  {
+    "adaptability": 3,
+    "breed": "pomeranian",
+    "image": "https://source.unsplash.com/CfDAo3C3bvQ",
+    "maintenance": 4,
+    "type": "dog"
+  },
+  {
+    "adaptability": 5,
+    "breed": "siamese",
+    "image": "https://source.unsplash.com/X_rJfNo0CdQ",
+    "maintenance": 1,
+    "type": "cat"
+  },
+  {
+    "adaptability": 4,
+    "breed": "main-coon",
+    "image": "https://source.unsplash.com/7NcdSLcRTq8",
+    "maintenance": 4,
+    "type": "cat"
+  },
+  {
+    "adaptability": 3,
+    "image": "https://source.unsplash.com/ZRRLXIGGvCo",
+    "maintenance": 4,
+    "species": "love-bird",
+    "type": "bird"
+  },
+  {
+    "adaptability": 3,
+    "breed": "scottish-fold",
+    "image": "https://source.unsplash.com/X3Qxfm2BKR8",
+    "maintenance": 2,
+    "type": "cat"
+  }
+]
